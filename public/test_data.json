@@ -1,0 +1,172 @@
+{
+  "pubRating": 4.5,
+  "_id": "63d5ac232aca54afab52e04f",
+  "user": {
+    "_id": "63d5a71aa354ba1e654dd5ba",
+    "firstName": "Julius",
+    "lastName": "Love",
+    "email": "jlove@example.com"
+  },
+  "avatar": "https://via.placeholder.com/200",
+  "about": "I review stuff",
+  "websites": [
+    "http://www.google.com",
+    "http://www.facebook.com"
+  ],
+  "areasOfExpertise": [
+    "Doctor",
+    "Lawyer",
+    "Nutritionist"
+  ],
+  "jobPreferences": [
+    "Review Content",
+    "Fact Check"
+  ],
+  "ratePerArticle": 100,
+  "credentials": [
+    {
+      "institution": "Harvard University",
+      "degreeType": "M.D.",
+      "areaOfStudy": "Family Medicine",
+      "_id": "63d77292f6f71c57d8a26296"
+    },
+    {
+      "institution": "U.C. Berkeley",
+      "degreeType": "B.S.",
+      "areaOfStudy": "Nutritional Science",
+      "_id": "63d77292f6f71c57d8a26297"
+    }
+  ],
+  "publications": [
+    {
+      "citation": "Author Last name. First initial. Middle initial. (Year Published). Title of article. Title of Periodical. Volume(Issue), page range.,",
+      "link": "http://www.google.com",
+      "_id": "63d77292f6f71c57d8a26294"
+    },
+    {
+      "citation": "Author Last name. First initial. Middle initial. (Year Published). Title of article. Title of Periodical. Volume(Issue), page range.",
+      "link": "httpe://www.youtube.com",
+      "_id": "63d77292f6f71c57d8a26295"
+    }
+  ],
+  "articles": [
+    {
+      "link": "https://onlinenutritionreviews.com/afjdskljdfkljdaslkjfklsad",
+      "date": {
+        "day": 12,
+        "month": 8,
+        "year": 22
+      },
+      "title": "Article title: Nutrition in two lines",
+      "description": "Description blah blah nutrition article description description words words the the the the the",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "link": "https://onlinenutritionreviews.com/afjdskljdfkljdaslkjfklsad",
+      "date": {
+        "day": 12,
+        "month": 8,
+        "year": 22
+      },
+      "title": "Article title: Nutrition in two lines",
+      "description": "Description blah blah nutrition article description description words words the the the the the",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "link": "https://onlinenutritionreviews.com/afjdskljdfkljdaslkjfklsad",
+      "date": {
+        "day": 12,
+        "month": 8,
+        "year": 22
+      },
+      "title": "Article title: Nutrition in two lines",
+      "description": "Description blah blah nutrition article description description words words the the the the the",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "link": "https://onlinenutritionreviews.com/afjdskljdfkljdaslkjfklsad",
+      "date": {
+        "day": 12,
+        "month": 8,
+        "year": 22
+      },
+      "title": "Article title: Nutrition in two lines",
+      "description": "Description blah blah nutrition article description description words words the the the the the",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "link": "https://onlinenutritionreviews.com/afjdskljdfkljdaslkjfklsad",
+      "date": {
+        "day": 12,
+        "month": 8,
+        "year": 22
+      },
+      "title": "Article title: Nutrition in two lines",
+      "description": "Description blah blah nutrition article description description words words the the the the the",
+      "image": "https://picsum.photos/200/300"
+    }
+  ],
+  "reviews": [
+    {
+      "title": "Super Very Long Review Title",
+      "description": "\"Here's a review that a publisher left this person saying how easy it was to work with them. Here's a review that a publisher left this person saying how easy it was to work with them,\"",
+      "rating": {
+        "overall": 4,
+        "communication": 4,
+        "timeliness": 4,
+        "value": 4
+      },
+      "date": {
+        "day": 7,
+        "month": 8,
+        "year": 22
+      }
+    },
+    {
+      "title": "Super Long Review Title",
+      "description": "\"Here's a review that a publisher left this person saying how easy it was to work with them. Here's a review that a publisher left this person saying how easy it was to work with them,\"",
+      "rating": {
+        "overall": 5,
+        "communication": 5,
+        "timeliness": 5,
+        "value": 5
+      },
+      "date": {
+        "day": 4,
+        "month": 8,
+        "year": 22
+      }
+    },
+    {
+      "title": "Review Title",
+      "description": "\"Here's a review that a publisher left this person saying how easy it was to work with them. Here's a review that a publisher left this person saying how easy it was to work with them,\"",
+      "rating": {
+        "overall": 3,
+        "communication": 3,
+        "timeliness": 3,
+        "value": 3
+      },
+      "date": {
+        "day": 3,
+        "month": 8,
+        "year": 22
+      }
+    },
+    {
+      "title": "Long Review Title",
+      "description": "\"Here's a review that a publisher left this person saying how easy it was to work with them. Here's a review that a publisher left this person saying how easy it was to work with them,\"",
+      "rating": {
+        "overall": 2,
+        "communication": 2,
+        "timeliness": 2,
+        "value": 2
+      },
+      "date": {
+        "day": 1,
+        "month": 8,
+        "year": 22
+      }
+    }
+  ],
+  "__v": 0
+}

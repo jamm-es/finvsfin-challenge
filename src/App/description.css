@@ -1,0 +1,127 @@
+.citation {
+    color: var(--color-text);
+    text-decoration: none;
+}
+
+.article {
+    width: calc(160px + 2 * var(--bs-card-spacer-x));
+}
+
+.article-carousel {
+    transition: translate 0.4s ease-out;
+}
+
+.article-button {
+    background-color: var(--color-gray);
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.article-button span {
+    width: 1.333rem;
+    height: 1.333rem;
+}
+
+.article-link {
+    line-height: 0.8rem;
+    font-size: 0.8rem;
+}
+
+.article-link a {
+    color: var(--color-accent);
+}
+
+.article-pubdate {
+    color: var(--color-hr);
+    line-height: 0.6667rem;
+    font-size: 0.6667rem;
+}
+
+.article-description {
+    line-height: 0.6667rem;
+    font-size: 0.6667rem;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.article img {
+    width: 160px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.sort {
+    font-size: 0.8rem;
+}
+
+.sort .btn, .sort .dropdown-menu {
+    font-size: 0.9rem;
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+}
+
+.sort .btn {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom-style: dashed;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+}
+
+.sort .btn:active, .sort .dropdown-menu:active {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+}
+
+.sort .dropdown-item {
+    color: var(--color-accent);
+    cursor: pointer;
+}
+
+.sort .dropdown-item:active {
+    background-color: var(--color-bg);
+}
+
+.review-container {
+    gap: 0.5rem;
+}
+
+.review-description-container {
+    gap: 2rem;
+}
+
+.review-title {
+    font-size: 1rem;
+}
+
+.review-description {
+    font-size: 0.8rem;
+}
+
+.review-subcategory {
+    font-size: 0.8rem;
+}
+
+.review-date {
+    font-size: 0.5rem;
+    color: var(--color-gray);
+}
+
+@media (max-width: 650px) {
+    .review-description-container {
+        flex-direction: column;
+        gap: 0.5rem;
+        margin-bottom: 1rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .reviews-header {
+        flex-direction: column;
+    }
+}

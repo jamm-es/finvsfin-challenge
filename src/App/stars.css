@@ -1,0 +1,24 @@
+.stars {
+    gap: 0px;
+    height: min-content;
+}
+
+.star-svg {
+    fill: var(--color-bg);
+}
+
+.star-fg {
+    fill: var(--color-accent);
+}
+
+.star-fg.star-gray {
+    fill: var(--color-gray);
+}
+
+.star-bg {
+    fill: var(--color-muted);
+}
+
+.star-text {
+    color: var(--color-accent);
+}
